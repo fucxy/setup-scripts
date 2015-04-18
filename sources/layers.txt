@@ -19,7 +19,7 @@ meta-java,git://github.com/woglinde/meta-java.git,master,d2b75b615e4612f9fa05950
 meta-browser,git://github.com/OSSystems/meta-browser.git,master,30b8d6b3d0d6501c56ef6967a2fa73a3d4bf5fe9
 meta-mono,git://git.yoctoproject.org/meta-mono.git,master,7bc3cbb5db021700c445f07e2a95219f7298315f
 meta-kde4,https://gitorious.org/openembedded-core-layers/meta-kde4.git,master,4287bd4a5e23e084b1f9e9d3235b4248bbe772f6
-meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,master,f5a421caadf864d98dde90f587b999fb68edf10a
+meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,master,8ad7c2d0432288c3b1b2e943bcaedfd8b516e5cd
 meta-minnow,git://git.yoctoproject.org/meta-minnow,master,13a5f2ab84c7284647a3e067a33109c11dae0568
 meta-atmel,git://github.com/linux4sam/meta-atmel.git,master,99311588cbaf166ae25b00f01b9a5f171dc0c66c
 meta-dominion,git://github.com/koenkooi/meta-dominion.git,dizzy,43741f26e100a8c228d10902963f079c3a167f24
