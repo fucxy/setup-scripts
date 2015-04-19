@@ -7,7 +7,7 @@ meta-ettus,git://github.com/balister/meta-ettus.git,master,4b6b5be45032f147b9305
 meta-fsl-arm,git://git.yoctoproject.org/meta-fsl-arm.git,master,0b3457e7160a0069bb933558034a749b042bba88
 meta-fsl-arm-extra,git://github.com/Freescale/meta-fsl-arm-extra.git,master,ac1e57a770a13388ef2ea77b32cbcb09d5e6e14e
 meta-nslu2,git://github.com/kraj/meta-nslu2.git,master,ddf38dba9426b4a2047679e936521a5b1b06653e
-meta-smartphone,http://git.shr-project.org/repo/meta-smartphone.git,master,95e7be6e92e86ce673b0dbf99212e2fd288d3757
+meta-smartphone,http://git.shr-project.org/repo/meta-smartphone.git,fido,HEAD
 meta-intel,git://git.yoctoproject.org/meta-intel,master,53eea4f12311b4808b3af9695ac822eea1fc60c2
 meta-xilinx,git://git.yoctoproject.org/meta-xilinx,master,cd67eae1c63c64a2edd9560aec6d0b78fd7549cb
 meta-openpandora,git://github.com/openpandora/meta-openpandora.git,master,ef92fcb6d87908ae0be44cd9cc9539395a666cc8
