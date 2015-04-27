@@ -15,7 +15,7 @@ meta-raspberrypi,git://git.yoctoproject.org/meta-raspberrypi.git,master,b896a7da
 meta-handheld,git://git.openembedded.org/meta-handheld,master,318318c74f0e37f4cf54a4c8f3aab9e59555111d
 meta-sunxi,git://github.com/linux-sunxi/meta-sunxi.git,master,4f66286422457d029a55fb8b0c93c10990ebd9f4
 meta-opie,git://git.openembedded.org/meta-opie.git,master,a49922650d0e82cca6eb6a415c1165e8a6782dfb
-meta-java,git://github.com/woglinde/meta-java.git,master,d2b75b615e4612f9fa05950c1d76d4a719e573d4
+meta-java,git://git.yoctoproject.org/meta-java,master,d2b75b615e4612f9fa05950c1d76d4a719e573d4
 meta-browser,git://github.com/OSSystems/meta-browser.git,master,30b8d6b3d0d6501c56ef6967a2fa73a3d4bf5fe9
 meta-mono,git://git.yoctoproject.org/meta-mono.git,master,7bc3cbb5db021700c445f07e2a95219f7298315f
 meta-kde4,https://gitorious.org/openembedded-core-layers/meta-kde4.git,master,4287bd4a5e23e084b1f9e9d3235b4248bbe772f6
